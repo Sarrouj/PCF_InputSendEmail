@@ -1,0 +1,9 @@
+.option {
+    display: flex;
+    align-items: center;
+    gap : 7px
+}
+
+.Icon {
+    color: #3276C3;
+}
